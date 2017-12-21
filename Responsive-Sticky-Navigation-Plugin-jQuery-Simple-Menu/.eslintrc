@@ -1,0 +1,46 @@
+{
+   "rules": {
+     "brace-style": [1, "1tbs"],
+     "consistent-this": [1, "self"],
+     "eqeqeq": [1, "smart"],
+     "func-style": [1, "declaration"],
+     "no-else-return": 1,
+     "no-extra-parens":[
+       "all", {
+         "conditionalAssign": false
+       }
+     ],
+     "no-extra-semi": 0,
+     "no-floating-decimal": 1,
+     "no-nested-ternary": 1,
+     "no-lonely-if": 1,
+     "quotes": [1, "single", "avoid-escape"],
+     "radix": 1,
+     "semi": [0, "never"],
+     "space-after-keywords": [1, "always"],
+     "space-in-brackets": [1, "always"],
+     "space-unary-word-ops": 1,
+     "wrap-iife": [
+       "inside", {
+         "functionPrototypeMethods": true
+       }
+     ],
+     "no-new": 0,
+     "no-underscore-dangle": 0,
+     "no-unused-expressions": [
+       "error", {
+         "allowShortCircuit": true
+       }
+     ]
+   },
+
+  "globals": {
+    "$": false,
+    "jQuery": true
+  },
+
+  "env": {
+    "browser": true,
+    "node": true
+  }
+}

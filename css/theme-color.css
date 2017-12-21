@@ -1,0 +1,33 @@
+/*
+<------------------------Theme Color Css--------------------------->
+*/
+.tp-info-box .iconbox::before,.tl-nav-holder .navbar-nav li ul li::before,.th-bgColor,.tl-plan-listed li::before,.tl-btn-style1,
+.tl-accordian-item .panel-heading .panel-title > a.collapsed:after,.tl-pro-item .caption .icons-holder li .icomoon:hover,
+.tl-btn-booking,.tl-team-item:before,.btn-order,.tl-pagination-row .pagination li a:hover,.tl-pagination-row .pagination li.active a,.tl-accordian-item .panel-heading .panel-title > a.collapsed:before,
+.tl-tags li a,.tl-testimonial-info:before,.tl-range-slider-holder .ui-widget-content .ui-state-default,.tl-cart-holder_v2:before,.tl-search-holder .tl-search-inner .btn-submit,
+.tl-btn-style3:before,.tl-quote-holder h4,.tl-prices-item .icomoon,.tl-call-action-listed_v2 .btn-appointment,.tl-subscribe-form .btn-submit,header .tl-nav-holder .navbar-toggle,header .tl-nav-holder .navbar-toggle:hover,header .tl-nav-holder .navbar-toggle.focus,.tl-nav-holder .navbar-toggle.collapsed{
+	background-color: #58c4a7;
+}
+
+
+.tl-top-row .tp-info-box .iconbox,.tp-info-box .icomoon,.tp-info-box .text span,.tl-nav-holder .navbar-default .navbar-nav > li:before,.tl-heading-outer h2:before,
+.ft-listed li span,.ft-listed li:hover a,.ft-listed li:hover .icomoon,.tl-pro-item .text-holder .pro-price,.tl-social-innner .tl-social-links li a,.tl-about-info-listed .icomoon,
+.th-color,.tl-services-section_v2 .tl-services-item .icomoon,.tl-team-item .tl-caption .desination,.tl-social-links li a:hover .icomoon,.tl-social-links li a:hover .fa,.tl-clients-listed li span,
+.tl-services-item .icomoon, .tl-services-item i.fa,.tl-plan-listed li:hover,.tl-services-item:hover h4,.tl-team-item .tl-caption h3 a:hover,.tl-comments-info .reply .icomoon,.tl-widget-listed li:hover:before,.tl-widget-listed li:hover,
+.tl-widget-listed li:hover a,.tl-right-listed .nav-tabs > li.active a,.tl-right-listed .nav-tabs > li.active a:hover,.tl-right-listed .nav-tabs > li a:focus,.tl-right-listed .nav-tabs > li.active,
+.tl-right-listed .nav-tabs > li.active a:focus,.tl-social-links_v3 li a,.tl-cart-holder .inner-cart .number-selected,.tl-banner-info h2 span,.tl-btn-style3,.tl-advantages-listed li:before,.tl-customer-item h4,.tl-prices-item .choose,
+.tl-repair-listed li:before,#tl-product-slider .owl-controls .owl-nav [class*=owl-]:hover:before,.tl-rating .fa,.tl-review-item .tl-text .purchased a,.widget-get .ft-listed li .icomoon,.tl-nav-holder .navbar-default .navbar-nav > li:hover > a,
+.tl-nav-holder .navbar-default .navbar-nav > li.current > a,.tl-nav-holder .navbar-default .navbar-nav > li:hover > a,.tl-prices-item .price-rate{
+	color: #58c4a7;
+}
+
+
+
+.tp-info-box .iconbox,.tl-nav-holder .navbar-nav li ul,.tl-cart-holder .inner-cart,.tl-about-info-listed .icomoon,#tl-blog-slider_v2 .owl-dots .owl-dot.active span,.tl-sidebar-outer .widget h3,
+.tl-comments-holder h3,.tl-social-links_v3 li a,.tl-btn-style3,.widget-get .ft-listed li .icomoon,#tl-review-slider .owl-dots .owl-dot.active span,.tl-nav-holder .navbar-default .navbar-nav > li:before,header .tl-nav-holder .navbar-toggle{
+	border-color: #58c4a7;
+}
+
+.tl-accordian-item .panel-heading .panel-title > a:before{
+	border-right-color: #58c4a7;
+}
